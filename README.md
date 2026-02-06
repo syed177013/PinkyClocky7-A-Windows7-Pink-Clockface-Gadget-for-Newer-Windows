@@ -15,7 +15,7 @@ While this clock may not be perfect or refined (the quality isn’t the best), i
 ## **Features**
 
 - **Pink Clock Face**: A fun, vibrant pink clock face, adding a retro and cute touch to your desktop.
-- **Cross-platform Support**: Works on Windows (8, 10, 11) and Linux.
+- **Cross-platform Support**: Works on Windows and Linux, perhaps MAC too? idk Dont have one but Prolly does. This aint exactly Rocket Science lol
 - **Simple Installation**: Easy to set up without any complex steps.
 - **Nostalgic Experience**: A throwback to the Windows 7 days with a clock that once adorned many desktops.
 - **Built with Python & Tkinter**: Leveraging Python for cross-platform compatibility and Tkinter for a simple UI.
